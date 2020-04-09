@@ -1,6 +1,6 @@
 FROM node:lts-alpine
 
-LABEL Author="Yoshino-s <yoshino.prog@gmail.com>"
+LABEL Author="void <v>"
 
 COPY files /tmp/
 
